@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-	alarm(1);
-	while(1);
+	alarm(2);
+	while(2);
 	return 0;
 }
